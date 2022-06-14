@@ -1,7 +1,11 @@
 # katiagithub-web
 Reportaje katia 
 Para este trabajo he utilizado una comparación sobre el crecimiento demográfico en países miembros de la UE e internamente en provincias de España para utilizar los 3  factores de crecimiento demográfico principales.
+
+
 La importancia del crecimiento demográfico en los países de la UE y España
+
+
 La población en Europa ha ido incrementando en los últimos años. Analizamos la demografía de enero a diciembre del 2021 y hemos podido identificar un crecimiento. Sin embargo, a nivel nacional, España también ha sufrido un incremento e la población total respecto a otros años y para ello hemos obtenido algunos datos y estadísticas de población del año 2021 en territorio nacional. 
 Analizar los datos sobre la población en un país es sumamente importante porque con estos datos se puede estudiar efectos, variaciones de los tres factores principales: natalidad, mortalidad y migración. Además, permite conocer especificaciones por sexo, edad y lugar de nacimiento. Obtener estos datos y ayuda a ofrecer mayor esperanza de vida en algunas ciudades que otras e incluso a nivel internacional hacer comparaciones entre países.
 A nivel europeo, como podemos observar posteriormente en la tabla los datos de Turquía, es el país miembro de la Unión Europea (UE), que mayor población tiene. Esto se debe a que su evolución demográfica desde mediados del siglo XX ha evolucionado en más del 50%. En 1960 eran 27.8 millones y en 1997 ya eran 62,9 millones de personas. Tiene una tasa de nacimiento de 18,60 nacimientos por habitantes al día.
