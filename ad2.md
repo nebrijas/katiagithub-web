@@ -1,14 +1,14 @@
 # ACTIVIDAD DIRIGIDA 2
 ## En esta actividad, voy a revelar los pasos que he seguido para iniciar mi aprendizaje en git hub:
 
-1. Primero ingresaba al link  https://github.com/nebrijas/IriaSantos-web/settings/pages Le daba mi nombre al repositorio que habíamos creado previamentee.
+1. Primero ingresaba al link  https://github.com/nebrijas/katiagithub-web Le daba mi nombre al repositorio que habíamos creado previamentee.
 4. Luego seleccionamos en Source en la primera opción que dice: main y en la opción 2: root
 5. le damos a crear un  nuevo archivo (con Add file) y a uno le llamamos  ad2.md
 7. Descargar Git Bash y abrirlo
 8. Escribimos:pwd
 y continuamos con enter
 9. luego escribimos:
-git clone https://github.com/nebrijas/IriaSantos-web
+git clone https://github.com/nebrijas/katiagithub-web
 con esto, modificamos nuestro repositorio y clonamos  la carpeta e Git hub al ordenador. 
 10. Escribimos:
 cd katiagithub-web/
