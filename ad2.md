@@ -47,4 +47,5 @@ y volvemos a dar enter
 git push
 y damos enter otra vez.
 24. Ahora nos aseguramos de que la carpeta se encuentre online
-ALGUNOS CONSEJOS: Cuando te aparece este símbolo que no deja avanzar ^, siempre dar a control y puedes continuar.
+
+##ALGUNOS CONSEJOS: Cuando te aparece este símbolo que no deja avanzar ^, siempre dar a control y puedes continuar.
