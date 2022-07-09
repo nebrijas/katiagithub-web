@@ -1,5 +1,5 @@
 # ACTIVIDAD DIRIGIDA 2
-## En esta actividad, voy a detallar los pasos de cómo hice la actividad 1:
+## En esta actividad, voy a revelar los pasos que he seguido para iniciar mi aprendizaje en git hub:
 
 1. Primero ingresaba al link  https://github.com/nebrijas/IriaSantos-web/settings/pages Le daba mi nombre al repositorio que habíamos creado previamentee.
 4. Luego seleccionamos en Source en la primera opción que dice: main y en la opción 2: root
