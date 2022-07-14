@@ -5,7 +5,7 @@ En este módulo hemos aprendido a utilizar herramientras para entender el desarr
 <<<<<<< HEAD
 -[Actividad 1](ad1.md)
 -[Actividad 2](ad2.md)
--[Actividad 3](ad3.ipynb)
+-[Actividad 3](ad3.md)
 -[Actividad 4](api-covid-pandas.ipynb)
 
 
